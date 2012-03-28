@@ -1,0 +1,7 @@
+This single perl script is a Session Initiation Protocol (SIP) Proxy Server.
+
+I wrote it to investigate the protocol and as a test tool.  i.e. it is easily changable to create test environments for SIP based networks.
+
+Matthew Hargreaves.
+
+
